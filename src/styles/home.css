@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F1FAEE;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background: #E63946;
+}
+
+header h1 {
+    padding: 2%;
+}
+
+.cat-container {
+    text-align: center;
+    background-color: #457B9D;
+    margin: 1%;
+    width: 10%;
+    border-radius: 25px;
+}
+
+.cat {
+    color: white;
+}
+
+.cat-container{
+    margin: 1% 2%;
+    padding: 0.7%;
+}
+
+ul li div li{
+    display: inline-block;
+    margin: 1% 6%;
+    border: #A8DADC solid 10px;
+}
+
+ul li div li:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(226, 36, 36, 0.4);
+}
+
+Link {
+    cursor: pointer;
+}
+
+
