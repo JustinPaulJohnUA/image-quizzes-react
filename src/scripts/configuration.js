@@ -1,5 +1,5 @@
 const config = {
-    base_url: 'http://localhost:3000'
+    base_url: 'https://agile-bayou-88653.herokuapp.com/'
 };
 
 export default config;
